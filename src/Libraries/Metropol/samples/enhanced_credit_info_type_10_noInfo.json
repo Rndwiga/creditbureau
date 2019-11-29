@@ -1,0 +1,9 @@
+{
+  "api_code": "E017",
+  "api_code_description": "No Account Information",
+  "has_error": false,
+  "identity_number": "550000055",
+  "identity_type": "001",
+  "loan_amount": 500,
+  "trx_id": "a85420ef-75f5-46ec-a1bb-306febd58121"
+}

@@ -1,0 +1,245 @@
+{
+  "account_info": [
+    {
+      "account_number": "DM_8820191767488",
+      "account_status": "Fully Settled",
+      "current_balance": null,
+      "date_opened": "2008-01-14",
+      "days_in_arrears": 0,
+      "delinquency_code": "005",
+      "highest_days_in_arrears": 360,
+      "is_your_account": false,
+      "last_payment_amount": "43.70000",
+      "last_payment_date": "2014-08-15",
+      "loaded_at": "2014-08-31 23:59:59",
+      "original_amount": "1801.50000",
+      "overdue_balance": null,
+      "overdue_date": null,
+      "product_type_id": 7
+    },
+    {
+      "account_number": "DM_88100521214888",
+      "account_status": "Active",
+      "current_balance": "6600.00000",
+      "date_opened": "2014-04-29",
+      "days_in_arrears": 0,
+      "delinquency_code": "003",
+      "highest_days_in_arrears": 0,
+      "is_your_account": false,
+      "last_payment_amount": "0.50000",
+      "last_payment_date": "2014-04-29",
+      "loaded_at": "2014-08-31 23:59:59",
+      "original_amount": "60000.00000",
+      "overdue_balance": null,
+      "overdue_date": null,
+      "product_type_id": 8
+    },
+    {
+      "account_number": "DM_880424000250088",
+      "account_status": "Active",
+      "current_balance": "606596.00000",
+      "date_opened": "2014-04-22",
+      "days_in_arrears": 0,
+      "delinquency_code": "003",
+      "highest_days_in_arrears": 0,
+      "is_your_account": false,
+      "last_payment_amount": "15989.50000",
+      "last_payment_date": "2014-08-29",
+      "loaded_at": "2014-08-31 23:59:59",
+      "original_amount": "631000.00000",
+      "overdue_balance": null,
+      "overdue_date": null,
+      "product_type_id": 14
+    }
+  ],
+  "api_code": null,
+  "api_code_description": null,
+  "credit_score": 467.59999999999997,
+  "delinquency_code": "005",
+  "guarantors": [
+    {
+      "account_number": "DM_8820191767488",
+      "identity_number": "660000066",
+      "identity_type_name": "001"
+    },
+    {
+      "account_number": "DM_8820191767488",
+      "identity_number": "770000077",
+      "identity_type_name": "005"
+    }
+  ],
+  "has_error": false,
+  "has_fraud": false,
+  "identity_number": "880000088",
+  "identity_scrub": {
+    "api_code": null,
+    "api_code_description": null,
+    "date_of_being": [
+      "1956-08-19"
+    ],
+    "email": [
+      "johnthe.walker@gmmail.com"
+    ],
+    "employment": [
+      {
+        "employer_name": "Testing Metropol",
+        "employment_date": null
+      }
+    ],
+    "gender": [
+      "M"
+    ],
+    "has_error": false,
+    "identity_number": "880000088",
+    "identity_type": "001",
+    "names": [
+      "Walker John",
+      "John The Walker"
+    ],
+    "phone": [
+      "0722222222"
+    ],
+    "physical_address": [
+      {
+        "address": "Nakuru",
+        "country": "Kenya",
+        "town": "Nakuru"
+      }
+    ],
+    "postal_address": [
+      {
+        "code": "00200",
+        "country": "Kenya",
+        "number": "2222",
+        "town": "Nakuru"
+      }
+    ]
+  },
+  "identity_type": "001",
+  "identity_verification": {
+    "api_code": null,
+    "api_code_description": null,
+    "citizenship": null,
+    "clan": null,
+    "date_of_birth": null,
+    "date_of_death": null,
+    "date_of_issue": null,
+    "dob": "1978-01-01",
+    "dod": null,
+    "error": null,
+    "error_message": null,
+    "ethnic_group": null,
+    "family": null,
+    "fingerprint": null,
+    "first_name": "Peter",
+    "gender": "M",
+    "has_error": false,
+    "id_number": "880000088",
+    "identity_number": "880000088",
+    "identity_type": "001",
+    "last_name": "Marangi",
+    "occupation": null,
+    "other_name": null,
+    "photo": null,
+    "place_of_birth": null,
+    "place_of_death": null,
+    "place_of_live": null,
+    "regoffice": null,
+    "serial_number": null,
+    "signature": null,
+    "surname": null,
+    "trx_id": "081cf84a-9c11-4c8f-859d-c4b57ae9177a"
+  },
+  "is_guarantor": false,
+  "lender_sector": {
+    "sector_bank": {
+      "account_npa": 0,
+      "account_performing": 1,
+      "account_performing_npa_history": 1
+    },
+    "sector_other": {
+      "account_npa": 0,
+      "account_performing": 1,
+      "account_performing_npa_history": 0
+    }
+  },
+  "metro_score_trend": [
+    {
+      "metro_score": 467,
+      "month": "2018-1",
+      "ppi": null
+    },
+    {
+      "metro_score": 467,
+      "month": "2018-8",
+      "ppi": null
+    },
+    {
+      "metro_score": 467,
+      "month": "2018-9",
+      "ppi": null
+    },
+    {
+      "metro_score": 467,
+      "month": "2018-7",
+      "ppi": null
+    },
+    {
+      "metro_score": 467,
+      "month": "2017-12",
+      "ppi": null
+    },
+    {
+      "metro_score": 467,
+      "month": "2018-10",
+      "ppi": null
+    },
+    {
+      "metro_score": 467,
+      "month": "2017-11",
+      "ppi": null
+    },
+    {
+      "metro_score": 467,
+      "month": "2018-3",
+      "ppi": null
+    },
+    {
+      "metro_score": 467,
+      "month": "2018-2",
+      "ppi": null
+    },
+    {
+      "metro_score": 467,
+      "month": "2018-5",
+      "ppi": null
+    },
+    {
+      "metro_score": 467,
+      "month": "2018-4",
+      "ppi": null
+    },
+    {
+      "metro_score": 467,
+      "month": "2018-6",
+      "ppi": null
+    }
+  ],
+  "no_of_bounced_cheques": {
+    "last_12_months": 0,
+    "last_3_months": 0,
+    "last_6_months": 0
+  },
+  "no_of_credit_applications": {
+    "last_12_months": 0,
+    "last_3_months": 0,
+    "last_6_months": 0
+  },
+  "no_of_enquiries": {
+    "last_12_months": 0,
+    "last_3_months": 0,
+    "last_6_months": 0
+  },
+  "stakeholders": [],
+  "trx_id": "081cf84a-9c11-4c8f-859d-c4b57ae9177a"
+}

@@ -1,0 +1,11 @@
+{
+  "api_code": null,
+  "api_code_description": null,
+  "delinquency_code": "005",
+  "delinquency_summary": "Historical delinquency True",
+  "has_error": false,
+  "identity_number": "880000088",
+  "identity_type": "001",
+  "loan_amount": 500,
+  "trx_id": "a9809481-be9d-455f-b30c-61aeb238cf9a"
+}

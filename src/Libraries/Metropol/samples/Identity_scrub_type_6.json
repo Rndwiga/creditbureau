@@ -1,0 +1,44 @@
+{
+  "api_code": null,
+  "api_code_description": null,
+  "date_of_being": [
+    "1968-07-27"
+  ],
+  "email": [
+    "mamakayai@gmail.com"
+  ],
+  "employment": [
+    {
+      "employer_name": "Testing Metropol",
+      "employment_date": null
+    }
+  ],
+  "gender": [
+    "F"
+  ],
+  "has_error": false,
+  "identity_number": "990000099",
+  "identity_type": "001",
+  "names": [
+    "Mama Kayai Mary",
+    "Mary Mama Kayai"
+  ],
+  "phone": [
+    "0722222222"
+  ],
+  "physical_address": [
+    {
+      "address": "Kisii",
+      "country": "Kenya",
+      "town": "Kisii"
+    }
+  ],
+  "postal_address": [
+    {
+      "code": "00502",
+      "country": "Kenya",
+      "number": "2222",
+      "town": "Kisii"
+    }
+  ]
+}
